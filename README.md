@@ -1,1 +1,8 @@
-# com_10_conjuntos
+# Calculadora de conjuntos
+
+## Operaciones
+- Unión
+- Intersección
+- Diferencia
+- es subconjunto
+- pertenece a
